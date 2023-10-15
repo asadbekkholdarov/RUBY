@@ -24,7 +24,7 @@ def calc(event)
 end
 
 begin 
-puts 'Calculator'
+puts 'Welcome, Calculator !'
 puts 'a is +'
 puts 'b is -'
 puts 'c is *'
